@@ -19,5 +19,10 @@
   "homepage": "https://github.com/julia-mironova/js-viewer-react-ts#readme",
   "dependencies": {
     "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.3",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
   }
 }
