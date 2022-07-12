@@ -1,0 +1,23 @@
+{
+  "name": "js-viewer-react-ts",
+  "version": "1.0.0",
+  "description": "this is course from udemy to better understend how work redux lauer in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julia-mironova/js-viewer-react-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julia-mironova/js-viewer-react-ts/issues"
+  },
+  "homepage": "https://github.com/julia-mironova/js-viewer-react-ts#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
