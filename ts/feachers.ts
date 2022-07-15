@@ -1,4 +1,4 @@
-const today = new Date();
+const today: Date = new Date();
 //console.log(today.getMonth() + 1);
 const appels: number = 5;
 
@@ -21,3 +21,7 @@ const logNumber: (i: number) => void = (i) => {
 const json = '{"x":20, "y":10}';
 const coord: { x: number; y: number } = JSON.parse(json);
 console.log(coord);
+
+const throwError = (message: string): never => {
+	throw new Error(message);
+};
