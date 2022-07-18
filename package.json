@@ -20,6 +20,7 @@
 	"homepage": "https://github.com/julia-mironova/js-viewer-react-ts#readme",
 	"dependencies": {
 		"@types/faker": "^5.5.9",
+		"@types/google.maps": "^3.49.2",
 		"axios": "^0.27.2",
 		"faker": "^5.5.3",
 		"parcel-bundler": "^1.12.5"
